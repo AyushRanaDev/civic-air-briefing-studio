@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project architecture
+
+- Keep uploaded air-quality rows and generated briefings in page memory only; use TanStack server functions for Lovable AI Gateway requests so no history or raw-row AI submission is introduced.
