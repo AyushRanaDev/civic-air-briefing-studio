@@ -1,0 +1,3 @@
+- [ ] Build exact-header CSV paste/upload, missing-cell table, station averages, rankings, and hotspot status.
+- [ ] Add server-side AI briefing, stakeholder recommendations, English/Hindi citizen advisories, and previous-brief comparison.
+- [ ] Verify CSV rules, AI route wiring, responsive preview, and build status.
